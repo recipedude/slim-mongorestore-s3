@@ -1,0 +1,4 @@
+.nova
+*~
+config.env
+.DS_Store
